@@ -1,4 +1,4 @@
-# Amal
+
 
 <h1 align="center">Hi 👋, I'm Amal</h1>
 <h3 align="center">A passionate software developer from India</h3>
